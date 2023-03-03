@@ -11,7 +11,7 @@
 			"location": {
 				"type": "AzureBlobStorageLocation",
 				"fileName": "Tab_Geo_Data.csv",
-				"container": "etl-demo"
+				"container": "terraform-demo"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
