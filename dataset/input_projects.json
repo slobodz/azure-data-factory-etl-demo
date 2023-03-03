@@ -10,8 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "Tab_Projekte.csv",
-				"container": "etl-demo"
+				"fileName": "Tab_Projects.csv",
+				"container": "terraform-demo"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
